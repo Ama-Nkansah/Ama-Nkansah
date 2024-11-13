@@ -66,7 +66,7 @@ Project 3: Todo list App</a>
 <a href="https://ama-nkansah.github.io/GO2COD_WD_04/" target="_blank" style="text-decoration:none; color:green;">Project 4: Image Responsive Gallery</a>
 </h3>
 <img src="./img/image gallery img.png" height="300px"  width="190px" style="border:15px solid #F9E8D2; margin-bottom:20px;">
-</div>
+
 
 
 <h2>📊 Statistics</h2>
