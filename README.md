@@ -13,31 +13,31 @@
 <h1 style="color:#44aefb"> ⚙️Tools & Technologies Used</h1>
 
 <div style="display:flex; justify-content:center; gap:5px; align-items:center;">
-<a href=https://developer.mozilla.org/en-US/docs/Web/HTML target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img height="50px"  alt="html svg"  style="padding-right:10px;" src="./img/html5-color.svg">
 </a>
 
-<a href=https://www.w3schools.com/Css/ target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer">
 <img height="50px"  alt="css svg" style="padding-right:15px;" src="./img/css3-color.svg">
 </a>
 
-<a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img height="50px"  alt="js svg" style="padding-right:15px;" src="./img/javascript-color.svg">
 </a>
 
-<a href=https://tailwindcss.com/ target="_blank" rel="noreferrer">
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img height="50px"  alt="tailwind svg" style="padding-right:15px;" src="./img/tailwindcss-color.svg">
 </a>
 
-<a href=thttps://getbootstrap.com/docs/5.0/getting-started/introduction/ target="_blank" rel="noreferrer">
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img height="50px"  alt="bootstrap svg" style="padding-right:15px;" src="./img/bootstrap-color.svg">
 </a>
 
-<a href=https://react.dev/ target="_blank" rel="noreferrer">
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
 <img height="50px"  alt="react svg"  style="padding-right:15px;" src="./img/react-color.svg">
 </a>
 
-<a href=https://nodejs.org/en target="_blank" rel="noreferrer">
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
 <img height="50px"  alt="node.js svg" style="padding-right:15px;" src="./img/nodedotjs-color.svg">
 </a>
 </div>
