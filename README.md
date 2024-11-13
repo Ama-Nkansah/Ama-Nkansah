@@ -81,15 +81,15 @@ Project 3: Todo list App</a>
 
 <div style="display:flex; justify-content:center; gap:5px; align-items:center;">
 <a href="mailto:amankansahstate@gmail.com" target="_blank" rel="noreferrer">
-<img height="40px"  alt="mail svg"  style="padding-right:15px;" src="./img/gmail-color.svg">
+<img height="40px"  alt="mail svg"  style="padding-right:15px; display:block" src="./img/gmail-color.svg">
 </a>
 
 <a href="https://www.linkedin.com/in/ama-nkansah-akuoko/" target="_blank" rel="noreferrer">
-<img height="40px"  alt="linkedin svg"  style="padding-right:15px;" src="./img/linkedin-color.svg">
+<img height="40px"  alt="linkedin svg"  style="padding-right:15px; display:block" src="./img/linkedin-color.svg">
 </a>
 
 <a href="http://www.tiktok.com/@yendidiwithama" target="_blank" rel="noreferrer">
-<img height="40px"  src="./img/tiktok-color.svg" style="filter: invert(1) brightness(2); padding-right:15px;" alt="TikTok Icon">
+<img height="40px"  src="./img/tiktok-color.svg" style="filter: invert(1) brightness(2); padding-right:15px; display:block" alt="TikTok Icon">
 </a>
 </div>
 
