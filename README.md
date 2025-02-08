@@ -1,4 +1,4 @@
-<h1> 👩‍💻Ama Nkansah | Front-end Developer</h1> 
+<h1> 👩‍💻Ama Nkansah | Software Engineer</h1> 
 <h2>Bringing Ideas to Life Through Code</h2>
 
 <p>Hi, I'm Ama Nkansah, a front-end developer and an IT student with a passion for building sleek, responsive websites. I specialize in HTML, CSS, and JavaScript, and I bring designs to life with frameworks like Bootstrap, alongside other tools and technologies that enhance the user experience. I’m always exploring new techniques and frameworks to stay current in web development. 👩‍💻</p>
