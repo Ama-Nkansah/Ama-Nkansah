@@ -6,7 +6,12 @@ Hi, I'm Ama Nkansah, a software engineer and AI enthusiast exploring the interse
   <br/>
   <br/>
 Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
+   <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Email-pink?style=for-the-badge" alt="Email">
+
 </p>
+
 
 ---
 
