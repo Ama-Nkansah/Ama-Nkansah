@@ -77,7 +77,7 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
   </a>
   
   <!-- Streak Stats -->
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Ama-Nkansah)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ama-Nkansah&theme=dark)](https://git.io/streak-stats)
   
   
   <a href="https://github.com/Ama-Nkansah">
