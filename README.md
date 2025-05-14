@@ -2,7 +2,9 @@
 <h2 align="center">Bringing Ideas to Life Through Code</h2>
 
 <p align="center">
-Hi, I'm Ama Nkansah, a software engineer and AI enthusiast exploring the intersection of web development and intelligent systems. I specialize in crafting sleek, responsive websites using HTML, CSS, and JavaScript, along with various frameworks and libraries, while diving into the fascinating world of AI to create innovative solutions. 🌟 <br>
+Hi, I'm Ama Nkansah, a software engineer and AI enthusiast exploring the intersection of web development and intelligent systems. I specialize in crafting sleek, responsive websites using HTML, CSS, and JavaScript, along with various frameworks and libraries, while diving into the fascinating world of AI to create innovative solutions. 🌟  
+  <br/>
+  <br/>
 Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
 </p>
 
