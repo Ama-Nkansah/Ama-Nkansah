@@ -9,7 +9,7 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
    <br/>
   <div align ="center">
 <a href="mailto:amankansahstate@gmail.com">
-  <img height="40px" src="https://img.shields.io/badge/Email-pink?style=flat-square" alt="Email">
+  <img height="30px" src="https://img.shields.io/badge/Email-pink?style=flat-square" alt="Email">
 </a>
 </div>
 
