@@ -89,7 +89,10 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
 
 <h1 align="center">💡 Contribution Chart</h1>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ama-Nkansah&theme=react-dark" alt="Ama's Contribution Graph">
+<a href="https://www.gitch.art/share/Ama-Nkansah?color=2da44e" target="_blank">
+  <img height="30px" src="https://img.shields.io/badge/GitHub%20Graph-View-green?style=flat-square" alt="View Contribution Graph">
+</a>
+
 </div>
 
 ---
