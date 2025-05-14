@@ -85,7 +85,7 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
 ---
 
 <h1 align="center">🫱🏾‍🫲🏾 Get in Touch</h1>
-<div align="center" style="display:flex; gap:15px; justify-content:center; align-items:center;">
+<div align="center" style="display:flex; gap:30px; justify-content:center; align-items:center;">
   <a href="mailto:amankansahstate@gmail.com" target="_blank">
     <img height="40px" src="./img/gmail-color.svg" alt="Email">
   </a>
