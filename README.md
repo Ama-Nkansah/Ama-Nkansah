@@ -8,7 +8,7 @@ Hi, I'm Ama Nkansah, a software engineer and AI enthusiast exploring the interse
 Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
    <br/>
   <div align ="center">
-<a href="mailto:amankansahstate@gmail.com"><img height="30px" src="https://img.shields.io/badge/Email-pink?style=flat-square" alt="Email"></a>
+<a href="mailto:amankansahstate@gmail.com" style="text-decoration: underline; color: pink;">Email Me</a>
 </div>
 
 
