@@ -97,6 +97,6 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
   </a>
 </div>
 
-<h6 align="center">© Ama Nkansah 2024</h6>
+<h6 align="center">© Ama Nkansah 2024–2025</h6>
             
           
