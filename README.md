@@ -37,8 +37,8 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
   </div>
   <div>
     <h3>
-      <a href="https://ama-nkansah.github.io/GO2COD_WD_03/" target="_blank" style="text-decoration:none; color:green;">
-        Project 2: Calculator App
+      <a href="https://hostel-management-system-seven.vercel.app/" target="_blank" style="text-decoration:none; color:green;">
+        Project 2: Hotel Management System
       </a>
     </h3>
   </div>
