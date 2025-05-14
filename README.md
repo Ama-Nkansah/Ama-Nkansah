@@ -2,9 +2,7 @@
 <h2 align="center">Bringing Ideas to Life Through Code</h2>
 
 <p align="center">
-Hi, I'm Ama Nkansah, a front-end developer and IT student passionate about building sleek, responsive websites. 
-I specialize in HTML, CSS, JavaScript, and frameworks like Bootstrap to bring designs to life. 
-I’m constantly exploring new techniques and frameworks to stay current in web development. 👩‍💻<br><br>
+Hi, I'm Ama Nkansah, a software engineer and AI enthusiast exploring the intersection of web development and intelligent systems. I specialize in crafting sleek, responsive websites using HTML, CSS, and JavaScript, along with various frameworks and libraries, while diving into the fascinating world of AI to create innovative solutions. 🌟 <br>
 Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
 </p>
 
