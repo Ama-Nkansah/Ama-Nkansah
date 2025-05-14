@@ -44,15 +44,15 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
   </div>
   <div>
     <h3>
-      <a href="https://ama-nkansah.github.io/GO2COD_WD_01/" target="_blank" style="text-decoration:none; color:green;">
-        Project 3: Todo List App
+      <a href="https://ama-nkansah.github.io/Boba-Website/" target="_blank" style="text-decoration:none; color:green;">
+        Project 3: Boba Tea Website
       </a>
     </h3>
   </div>
   <div>
     <h3>
-      <a href="https://ama-nkansah.github.io/GO2COD_WD_04/" target="_blank" style="text-decoration:none; color:green;">
-        Project 4: Responsive Image Gallery
+      <a href="https://ama-nkansah.github.io/GO2COD_WD_03/" target="_blank" style="text-decoration:none; color:green;">
+        Project 4: Calculator App
       </a>
     </h3>
   </div>
