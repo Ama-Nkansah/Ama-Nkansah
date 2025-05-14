@@ -93,8 +93,10 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
     <img height="40px" src="./img/linkedin-color.svg" alt="LinkedIn">
   </a>
   <a href="https://x.com/ama_techgirl?s=21" target="_blank">
-    <img height="40px" src="./img/twitter-color.svg" alt="Twitter">
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter">
   </a>
 </div>
 
 <h6 align="center">© Ama Nkansah 2024</h6>
+            
+          
