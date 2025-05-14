@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Ama Nkansah | Software Engineer</h1>
+<h1 align="center">👩‍💻 Ama Nkansah | Software Engineer & AI 🤖</h1>
 <h2 align="center">Bringing Ideas to Life Through Code</h2>
 
 <p align="center">
