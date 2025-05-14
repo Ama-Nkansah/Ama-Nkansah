@@ -30,7 +30,7 @@ Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   <div>
     <h3>
-      <a href=https://first-portfolio-ama.vercel.app/" target="_blank" style="text-decoration:none; color:green;">
+      <a href="https://first-portfolio-ama.vercel.app/" target="_blank" style="text-decoration:none; color:green;">
         Project 1: My Portfolio Website
       </a>
     </h3>
