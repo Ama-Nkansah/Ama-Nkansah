@@ -1,97 +1,100 @@
-<h1> 👩‍💻Ama Nkansah | Software Engineer</h1> 
-<h2>Bringing Ideas to Life Through Code</h2>
+<h1 align="center">👩‍💻 Ama Nkansah | Software Engineer</h1>
+<h2 align="center">Bringing Ideas to Life Through Code</h2>
 
-<p>Hi, I'm Ama Nkansah, a front-end developer and an IT student with a passion for building sleek, responsive websites. I specialize in HTML, CSS, and JavaScript, and I bring designs to life with frameworks like Bootstrap, alongside other tools and technologies that enhance the user experience. I’m always exploring new techniques and frameworks to stay current in web development. 👩‍💻</p>
+<p align="center">
+Hi, I'm Ama Nkansah, a front-end developer and IT student passionate about building sleek, responsive websites. 
+I specialize in HTML, CSS, JavaScript, and frameworks like Bootstrap to bring designs to life. 
+I’m constantly exploring new techniques and frameworks to stay current in web development. 👩‍💻<br><br>
+Beyond coding, I'm a content creator and a dedicated food blogger. 🥗🎥
+</p>
 
-<p>Beyond coding, I'm a content creator and a dedicated food blogger.🥗🎥 </p>
+---
 
-<div align ="center">
-<a href="mailto:amankansahstate@gmail.com">Email Me</a>
-</div>
-<br/>
+<h1 align="center">⚙️ Tools & Technologies</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/MySQL-navy?style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/Cloud-lightblue?style=for-the-badge" alt="Cloud">
+  <img src="https://img.shields.io/badge/AI-red?style=for-the-badge" alt="AI">
+</p>
 
-<h1 style="color:#44aefb"> ⚙️Tools & Technologies Used</h1>
+---
 
-<div style="display:flex; justify-content:center; gap:5px; align-items:center;">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img height="50px"  alt="html svg"  style="padding-right:10px;" src="./img/html5-color.svg">
-</a>
-
-<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer">
-<img height="50px"  alt="css svg" style="padding-right:15px;" src="./img/css3-color.svg">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img height="50px"  alt="js svg" style="padding-right:15px;" src="./img/javascript-color.svg">
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img height="50px"  alt="tailwind svg" style="padding-right:15px;" src="./img/tailwindcss-color.svg">
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img height="50px"  alt="bootstrap svg" style="padding-right:15px;" src="./img/bootstrap-color.svg">
-</a>
-
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img height="50px"  alt="react svg"  style="padding-right:15px;" src="./img/react-color.svg">
-</a>
-
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-<img height="50px"  alt="node.js svg" style="padding-right:15px;" src="./img/nodedotjs-color.svg">
-</a>
-</div>
-
-<br/>
-<h1 align="center">Projects</h1>
-
-
-<h3>
-<a href="https://ama-nkansah.github.io/GO2COD_WD_05/" target="_blank" style="text-decoration:none; color:green;">Project 1: My Portfolio Website</a>
-</h3>
-<img src="./img/my portfolio img.png" height="300px" style="border:15px solid  #F9E8D2; margin-bottom:10px;">
-
-<h3>
-<a href="https://ama-nkansah.github.io/GO2COD_WD_03/" target="_blank" style="text-decoration:none; color:green;">Project 2: Calculator App</a>
-</h3>
-<img src="./img/calculator img.png" height="300px" style="border:15px solid #F9E8D2; margin-bottom:10px;">
-
-<h3>
-<a href="https://ama-nkansah.github.io/GO2COD_WD_01/" target="_blank" style="text-decoration:none; color:green;">
-Project 3: Todo list App</a>
-</h3>
-<img src="./img/todolist img.png"  width="190px" height="300px" style="border:15px solid #F9E8D2; margin-bottom:10px;">
-
-<h3>
-<a href="https://ama-nkansah.github.io/GO2COD_WD_04/" target="_blank" style="text-decoration:none; color:green;">Project 4: Image Responsive Gallery</a>
-</h3>
-<img src="./img/image gallery img.png" height="300px"  width="190px" style="border:15px solid #F9E8D2; margin-bottom:20px;">
-
-
-
-<h2>📊 Statistics</h2>
-
-[![Ama Nkansah GitHub stats](https://github-readme-stats.vercel.app/api?username=Ama-Nkansah)](https://github.com/Ama-Nkansah)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ama-Nkansah)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ama-Nkansah)](https://github.com/Ama-Nkansah)
-
-<h2>🫱🏾‍🫲🏾Get In Touch</h2>
-
-<div style="display:flex; justify-content:center; gap:5px; align-items:center;">
-<a href="mailto:amankansahstate@gmail.com" target="_blank" rel="noreferrer">
-<img height="40px"  alt="mail svg"  style="padding-right:15px; display:block" src="./img/gmail-color.svg">
-</a>
-
-<a href="https://www.linkedin.com/in/ama-nkansah-akuoko/" target="_blank" rel="noreferrer">
-<img height="40px"  alt="linkedin svg"  style="padding-right:15px; display:block" src="./img/linkedin-color.svg">
-</a>
-
-<a href="http://www.tiktok.com/@yendidiwithama" target="_blank" rel="noreferrer">
-<img height="40px"  src="./img/tiktok-color.svg" style="filter: invert(1) brightness(2); padding-right:15px; display:block" alt="TikTok Icon">
-</a>
+<h1 align="center">🛠 Projects</h1>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+  <div>
+    <h3>
+      <a href="https://ama-nkansah.github.io/GO2COD_WD_05/" target="_blank" style="text-decoration:none; color:green;">
+        Project 1: My Portfolio Website
+      </a>
+    </h3>
+  </div>
+  <div>
+    <h3>
+      <a href="https://ama-nkansah.github.io/GO2COD_WD_03/" target="_blank" style="text-decoration:none; color:green;">
+        Project 2: Calculator App
+      </a>
+    </h3>
+  </div>
+  <div>
+    <h3>
+      <a href="https://ama-nkansah.github.io/GO2COD_WD_01/" target="_blank" style="text-decoration:none; color:green;">
+        Project 3: Todo List App
+      </a>
+    </h3>
+  </div>
+  <div>
+    <h3>
+      <a href="https://ama-nkansah.github.io/GO2COD_WD_04/" target="_blank" style="text-decoration:none; color:green;">
+        Project 4: Responsive Image Gallery
+      </a>
+    </h3>
+  </div>
 </div>
 
-<h6 align="center">@AmaNkansah 24</h6>
+---
 
+<h1 align="center">📊 Statistics</h1>
+<div align="center">
+  <a href="https://github.com/Ama-Nkansah">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ama-Nkansah&show_icons=true&theme=radical" alt="Ama's GitHub Stats">
+  </a>
+  
+  <!-- Streak Stats -->
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Ama-Nkansah)](https://git.io/streak-stats)
+  
+  
+  <a href="https://github.com/Ama-Nkansah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ama-Nkansah&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+</div>
+
+---
+
+<h1 align="center">💡 Contribution Chart</h1>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ama-Nkansah&theme=react-dark" alt="Ama's Contribution Graph">
+</div>
+
+---
+
+<h1 align="center">🫱🏾‍🫲🏾 Get in Touch</h1>
+<div align="center" style="display:flex; gap:15px; justify-content:center; align-items:center;">
+  <a href="mailto:amankansahstate@gmail.com" target="_blank">
+    <img height="40px" src="./img/gmail-color.svg" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ama-nkansah-akuoko/" target="_blank">
+    <img height="40px" src="./img/linkedin-color.svg" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/ama_techgirl?s=21" target="_blank">
+    <img height="40px" src="./img/twitter-color.svg" alt="Twitter">
+  </a>
+</div>
+
+<h6 align="center">© Ama Nkansah 2024</h6>
